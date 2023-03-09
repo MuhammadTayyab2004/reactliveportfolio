@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactliveportfolio/static/css/main.2d145769.css",
+    "main.js": "/reactliveportfolio/static/js/main.65ca08b4.js",
+    "static/media/Android.jpg": "/reactliveportfolio/static/media/Android.9fa3a577e55366d25bd8.jpg",
+    "static/media/App.jpg": "/reactliveportfolio/static/media/App.5c3ae8c111fd768f266b.jpg",
+    "static/media/Web.jpg": "/reactliveportfolio/static/media/Web.f903604cf16193b7c5dd.jpg",
+    "static/media/Marketing.jpg": "/reactliveportfolio/static/media/Marketing.5fb26a38e1134e4f7892.jpg",
+    "static/media/Software.jpg": "/reactliveportfolio/static/media/Software.7776f861d3cc26cf8264.jpg",
+    "static/media/Digital.jpg": "/reactliveportfolio/static/media/Digital.f9e5fe335c7977e7745b.jpg",
+    "static/media/about.jpg": "/reactliveportfolio/static/media/about.b39f959cf03657525266.jpg",
+    "index.html": "/reactliveportfolio/index.html",
+    "main.2d145769.css.map": "/reactliveportfolio/static/css/main.2d145769.css.map",
+    "main.65ca08b4.js.map": "/reactliveportfolio/static/js/main.65ca08b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d145769.css",
+    "static/js/main.65ca08b4.js"
+  ]
+}
